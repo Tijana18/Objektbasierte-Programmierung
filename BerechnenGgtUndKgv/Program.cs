@@ -13,6 +13,7 @@ class Program
         }
         return a;
     }
+    
     // KGV berechnen
     static int KGV(int a, int b)
     {
