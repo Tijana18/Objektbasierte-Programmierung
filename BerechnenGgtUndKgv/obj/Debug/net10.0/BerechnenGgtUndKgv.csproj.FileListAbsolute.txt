@@ -1,0 +1,14 @@
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/bin/Debug/net10.0/BerechnenGgtUndKgv
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/bin/Debug/net10.0/BerechnenGgtUndKgv.deps.json
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/bin/Debug/net10.0/BerechnenGgtUndKgv.runtimeconfig.json
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/bin/Debug/net10.0/BerechnenGgtUndKgv.dll
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/bin/Debug/net10.0/BerechnenGgtUndKgv.pdb
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.AssemblyInfoInputs.cache
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.AssemblyInfo.cs
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.csproj.CoreCompileInputs.cache
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.dll
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/refint/BerechnenGgtUndKgv.dll
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.pdb
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/BerechnenGgtUndKgv.genruntimeconfig.cache
+/Users/tijana/RiderProjects/BerechnenGgtUndKgv/BerechnenGgtUndKgv/obj/Debug/net10.0/ref/BerechnenGgtUndKgv.dll
