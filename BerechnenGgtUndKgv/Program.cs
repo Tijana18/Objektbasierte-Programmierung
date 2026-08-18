@@ -20,6 +20,7 @@ class Program
     }
     static void Main()
     {
+        //Wir nehmen input von user
         Console.Write("Gib die erste Zahl ein: ");
         int zahl1 = Convert.ToInt32(Console.ReadLine());
 
