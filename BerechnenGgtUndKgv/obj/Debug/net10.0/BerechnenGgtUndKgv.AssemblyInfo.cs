@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BerechnenGgtUndKgv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b72a62291bf5110e708f85b4765db74dc8d33b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BerechnenGgtUndKgv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BerechnenGgtUndKgv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
