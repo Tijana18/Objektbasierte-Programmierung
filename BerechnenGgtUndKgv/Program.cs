@@ -31,5 +31,6 @@ class Program
 
         Console.WriteLine("GGT = " + ggt);
         Console.WriteLine("KGV = " + kgv);
+        
     }
 }
