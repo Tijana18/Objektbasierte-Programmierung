@@ -126,7 +126,7 @@ public class RaceCars
     }
     
         car1.AutoDaten();       ---> ohne optionalen Parameter
-        car1.AutoDaten(true);    ---> mit ausdrücklich übergebenem Wert */
+        car1.AutoDaten(2);    ---> mit ausdrücklich übergebenem Wert */
     public void autoDaten()
     {
         Console.WriteLine(
