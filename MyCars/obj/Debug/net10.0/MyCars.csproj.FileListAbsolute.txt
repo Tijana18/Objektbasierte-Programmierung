@@ -1,0 +1,14 @@
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.AssemblyInfoInputs.cache
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.AssemblyInfo.cs
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.csproj.CoreCompileInputs.cache
+/Users/tijana/RiderProjects/MyCars/MyCars/bin/Debug/net10.0/MyCars
+/Users/tijana/RiderProjects/MyCars/MyCars/bin/Debug/net10.0/MyCars.deps.json
+/Users/tijana/RiderProjects/MyCars/MyCars/bin/Debug/net10.0/MyCars.runtimeconfig.json
+/Users/tijana/RiderProjects/MyCars/MyCars/bin/Debug/net10.0/MyCars.dll
+/Users/tijana/RiderProjects/MyCars/MyCars/bin/Debug/net10.0/MyCars.pdb
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.dll
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/refint/MyCars.dll
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.pdb
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/MyCars.genruntimeconfig.cache
+/Users/tijana/RiderProjects/MyCars/MyCars/obj/Debug/net10.0/ref/MyCars.dll
