@@ -105,6 +105,28 @@ public class RaceCars
         anzahlGefahrenerRunden++;
     }
     //autoDaten()
+    /*Ich habe die Anforderung hier ein wenig verändert,
+    um `switch` und die Eingabe von Daten auszuprobieren.
+    
+    public void AutoDaten(bool ausführlich = 1)
+    {
+        if (ausführlich == 1)
+        {
+            Console.WriteLine($"Marke: {Marke}");
+            Console.WriteLine($"Modell: {Modell}");
+            Console.WriteLine($"Farbe: {Farbe}");
+            Console.WriteLine($"Höchstgeschwindigkeit: {Höchstgeschwindigkeit}");
+            Console.WriteLine($"Aktuelle Geschwindigkeit: {aktuelleGeschwindigkeit}");
+            Console.WriteLine($"Anzahl gefahrener Runden: {anzahlGefahrenerRunden}");
+        }
+        else
+        {
+            Console.WriteLine($"Marke: {Marke}, Modell: {Modell}");
+        }
+    }
+    
+        car1.AutoDaten();       ---> ohne optionalen Parameter
+        car1.AutoDaten(true);    ---> mit ausdrücklich übergebenem Wert */
     public void autoDaten()
     {
         Console.WriteLine(
