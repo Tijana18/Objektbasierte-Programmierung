@@ -64,7 +64,7 @@ public class RaceCars
     public int ektuelleGeschwindigkeit
     {
         get => aktuelleGeschwindigkeit;
-
+        
         /* Ich habe einen Try-Catch-Block verwendet, um eine Exception abzufangen.
          Wenn ein ungültiger Wert eingegeben wird, wird eine Exception ausgelöst. 
          Der Catch-Block fängt diese Exception ab, damit das Programm nicht abstürzt.*/
